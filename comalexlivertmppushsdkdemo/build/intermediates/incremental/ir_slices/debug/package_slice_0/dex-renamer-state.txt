@@ -1,0 +1,4 @@
+#Thu Dec 13 17:41:35 CST 2018
+base.0=F\:\\Excalibur\\Documents\\AndroidStudio\\rtmp\\comalexlivertmppushsdkdemo\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

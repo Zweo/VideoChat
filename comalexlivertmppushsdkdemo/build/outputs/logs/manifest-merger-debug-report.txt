@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\dcdab99500ceb21c2303a43e4a9f6c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\eb5c81ff957b017511f962bb255079ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f34b7e025c04205480085108260c2779\AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:2:1-15:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\ff28ba461c41f9f44d517105fd6c5335\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\e7f16b401b6d01803145fdee5cab147e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8e29f9c54107da48ecf0b065fd97c4b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4ea32da95eee8c4f747c6fb8ac127519\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6f57915d91d0a39fde22584f33f778e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f01fe15526b0e48200d7fa94c1b21a40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\44b294422d47686084f985d6c2a34ec3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\620450a0ee02898622e5c1abec553c6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9a4272c44d42050f8737b8524e0d42d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\55cfd3cf6cb2ed66a472a6f4b1589aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2ff60c277282d576319fbad6da027645\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\4d58b6349c86a2c2e220fadf9ef72d6f\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\47ec39ee4a1b7d06088319d36c30c8f4\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:4:5-53
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:8:5-65
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:10:5-60
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-60
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:11:5-70
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-70
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.INTERNET
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:13:5-66
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-67
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:15:5-81
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-81
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:16:5-71
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-71
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:17:5-68
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-68
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:17:22-65
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:19:5-83
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:19:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:20:5-88
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:20:30-85
+application
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:24:5-45:19
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-29:43
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-29:43
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:9:5-13:19
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:9:5-13:19
+	android:supportsRtl
+		ADDED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:28:9-47
+		REJECTED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:9-40
+	tools:replace
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:29:9-38
+activity#com.alex.com.alex.livertmppushsdk.demo.MainActivity
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:35:27-74
+service#com.alex.com.alex.livertmppushsdk.demo.services.MediaPlayerService
+ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:38:9-43:19
+	android:enabled
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:40:13-36
+	android:label
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml:39:13-56
+uses-sdk
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\dcdab99500ceb21c2303a43e4a9f6c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\dcdab99500ceb21c2303a43e4a9f6c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\eb5c81ff957b017511f962bb255079ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\eb5c81ff957b017511f962bb255079ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f34b7e025c04205480085108260c2779\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f34b7e025c04205480085108260c2779\AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-exo-0.8.3.aar\4207ae966d2d2c7bcb287760019676f8\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\ff28ba461c41f9f44d517105fd6c5335\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\ff28ba461c41f9f44d517105fd6c5335\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\e7f16b401b6d01803145fdee5cab147e\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\e7f16b401b6d01803145fdee5cab147e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8e29f9c54107da48ecf0b065fd97c4b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8e29f9c54107da48ecf0b065fd97c4b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4ea32da95eee8c4f747c6fb8ac127519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4ea32da95eee8c4f747c6fb8ac127519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6f57915d91d0a39fde22584f33f778e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6f57915d91d0a39fde22584f33f778e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f01fe15526b0e48200d7fa94c1b21a40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f01fe15526b0e48200d7fa94c1b21a40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\44b294422d47686084f985d6c2a34ec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\44b294422d47686084f985d6c2a34ec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\620450a0ee02898622e5c1abec553c6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\620450a0ee02898622e5c1abec553c6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9a4272c44d42050f8737b8524e0d42d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9a4272c44d42050f8737b8524e0d42d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\55cfd3cf6cb2ed66a472a6f4b1589aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\55cfd3cf6cb2ed66a472a6f4b1589aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2ff60c277282d576319fbad6da027645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2ff60c277282d576319fbad6da027645\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\4d58b6349c86a2c2e220fadf9ef72d6f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\4d58b6349c86a2c2e220fadf9ef72d6f\AndroidManifest.xml:24:5-26:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\47ec39ee4a1b7d06088319d36c30c8f4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] F:\SoftWare\Android\GradleCache\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\47ec39ee4a1b7d06088319d36c30c8f4\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		ADDED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+		INJECTED from F:\Excalibur\Documents\AndroidStudio\rtmp\comalexlivertmppushsdkdemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from [:liveRtmpPushSDK] F:\Excalibur\Documents\AndroidStudio\rtmp\liveRtmpPushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:22-73
