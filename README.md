@@ -8,4 +8,4 @@ Pull :  https://github.com/Bilibili/ijkplayer
 
 Thanks.
 
-More details on    https://blog.csdn.net/weixin_42165585?t=1
+More details on  https://blog.csdn.net/weixin_42165585/article/details/85023589
